@@ -1,0 +1,16 @@
+{
+    "editor.formatOnSave": true,
+    "[python]": {
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": "explicit"
+        },
+    },
+    "emmet.includeLanguages": {
+        "django-html": "html"
+    },
+    "cSpell.words": [
+        "djlint",
+        "isort",
+        "pyproject"
+    ]
+}
